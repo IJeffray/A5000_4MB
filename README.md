@@ -1,13 +1,13 @@
-# A5000 2MB/4MB
+# A5000 4MB
 
-April 2025
+May 2025
 
 
-![3D View](Generated/A5000_2MB4MB_3D_View.PNG)
+![3D View](Generated/A5000_4MB_3D_View.PNG)
 
-A 2MB upgrade board for A5000.  With the addition of a flying wire, can be used as a full 4MB - idea stolen directly from Ian Stocks.
+A 4MB upgrade board for A5000.  Requires flying wire - idea accidentally stolen directly from Ian Stocks; the onboard RAM is set as fully disabled (can be 1M, 2M, 4M, or none at all on the motherboard), but the 'RA9' signal is not provided on the RAM connector, hence the need for the short flying wire.
 
-This has NOT been built or tested.
+This has been built and tested successfully.
 
 ## Licence
 

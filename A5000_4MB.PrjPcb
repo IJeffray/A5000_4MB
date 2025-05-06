@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document5]
-DocumentPath=A5000_2MB4MB.OutJob
+DocumentPath=A5000_4MB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=A5000_2MB4MB.pcbdoc
+DocumentPath=A5000_4MB.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,10 +154,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BFSVMSNP
 
 [Document7]
-DocumentPath=A5000_2MB4MB.SchDoc
+DocumentPath=A5000_4MB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -179,19 +179,19 @@ Value=1.0
 
 [Parameter2]
 Name=Sch_releaseDate
-Value=April 2025
+Value=May 2025
 
 [Parameter3]
 Name=Project_Title
-Value=A5000_2MB4MB
+Value=A5000_4MB
 
 [Parameter4]
 Name=ProjectName
-Value=A5000_2MB4MB
+Value=A5000_4MB
 
 [Parameter5]
 Name=PCB_RevNo
-Value=1.0
+Value=1.1
 
 [Parameter6]
 Name=Engineer_Name
